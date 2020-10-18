@@ -8,4 +8,4 @@ This repository holds a number of Zscaler API samples.
  
  
  
- # All of these samples are CopyLeft, NO WARRANTIES EXPRESSED OR IMPLIED, while this works on my computer it might not work on yours.
+All of these samples are CopyLeft, NO WARRANTIES EXPRESSED OR IMPLIED, while this works on my computer it might not work on yours.
