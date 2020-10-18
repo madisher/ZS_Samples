@@ -44,7 +44,7 @@ import requests
 import socket
 
 ### Local Variables ###
-outputFilename = 'output/100URLs_Development.csv'  # This the logFile/csv name in relation to the script, i'm not making the output directory make sure it exists.
+outputFilename = 'output/100URLs_Out.csv'  # This the logFile/csv name in relation to the script, i'm not making the output directory make sure it exists.
 urlsToCategorize = 'input/100URLs.txt'  # This is the file we're processing, one url per line, no quotes or commas adjust path as necessary
 categoryDisplayName = "Sample 100-sh URLS to testfile."  # This is just a description that will be logged to the file.
 
